@@ -13,7 +13,7 @@ Hi! I'm Alba 👋 I am an interaction designer based in A Coruña, with a backgr
 - 🌐 [Website](https://www.albaanton.blog/)
 - 👥 **0** followers · **1** following
 
-## Java C Python
+## React Swift Flutter C Python
 
 No public language data yet — building the first project in the open.
 
