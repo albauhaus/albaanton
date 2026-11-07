@@ -4,11 +4,11 @@
   <img src="https://www.gitskins.com/api/section/hero?username=albauhaus&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F247629871%3Fu%3Dfa7d81ceb6befc4d97bc6233a22ad0dcdac94236%26v%3D4" alt="albauhaus hero visual" />
 </p>
 
-**Alba Anton** · Product-minded developer
+**Alba Anton** · Product Designer / UX Engineering
 
 ## About
 
-Hi! I'm Alba 👋 I am an interaction designer based in A Coruña, with a background in Graphic Design. I am currently studying Computer Engineering and a Master's
+Hi! I'm Alba 👋 I am an interaction designer based in A Coruña, with a background in Graphic Design. I am currently studying Computer Engineering and a Master's in UX and Interaction design. I create interfaces and design systems with technical judgement, clarity and consistency. In development, I aim to create clean, maintainable and easy-to-understand code.
 
 - 🌐 [Website](https://www.albaanton.blog/)
 - 👥 **0** followers · **1** following
@@ -35,6 +35,6 @@ No public language data yet — building the first project in the open.
   <img src="https://www.gitskins.com/api/section/social?username=albauhaus&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F247629871%3Fu%3Dfa7d81ceb6befc4d97bc6233a22ad0dcdac94236%26v%3D4" alt="albauhaus social visual" />
 </p>
 
-<a href="https://github.com/albauhaus">GitHub</a> · <a href="https://www.albaanton.blog/">Website</a>
+<a href="https://github.com/albauhaus">GitHub</a> · <a href="https://www.albaanton.blog/">Portfolio</a> · <a href="https://www.instagram.com/albauhaus/">Instagram</a> · <a href="https://www.linkedin.com/in/alba-ant%C3%B3n-8b1a80351">Linkedin</a>
 
 <p align="center"><sub>Alba Anton · <a href="https://www.gitskins.com/readme-generator?template=community-jose-guilherme-paes-rodrigues-9v2b">José Guilherme Paes Rodrigues</a> template by <a href="https://www.gitskins.com/creators/josepaes23">@josepaes23</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
